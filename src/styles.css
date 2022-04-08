@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+}
+.button {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  border: none;
+  margin-left: 1100px;
+  margin-top: 15px;
+  background-color: blanchedalmond;
+  border-radius: 10px;
+}
+.navbar {
+  display: flex;
+  width: 100%;
+  height: 60px;
+  background-color: rgb(77, 77, 77);
+}
+.logo {
+  display: grid;
+  color: white;
+  grid-column: 2/3;
+}
+.menulink {
+  color: blue;
+  margin-left: 200px;
+}
